@@ -4,7 +4,8 @@
   "description": "Proyecto usando LowDB con swagger en express con Typescript",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "dev": "nodemon"
   },
   "keywords": [],
   "author": "Fernando Leon",
