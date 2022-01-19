@@ -1,5 +1,5 @@
-import lowdb from "lowdb";
-import FileSync from "lowdb/adapters/FileSync";
+import lowdb from 'lowdb';
+import FileSync from 'lowdb/adapters/FileSync';
 
 type Task = {
   id: string;
